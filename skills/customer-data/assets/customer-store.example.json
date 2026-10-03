@@ -1,0 +1,12 @@
+{
+  "schema": "dev.woia.customer-store/v1",
+  "revision": 1,
+  "customers": [
+    {
+      "id": "customer-001",
+      "name": "Example Customer",
+      "email": "customer@example.invalid",
+      "stage": "lead"
+    }
+  ]
+}
