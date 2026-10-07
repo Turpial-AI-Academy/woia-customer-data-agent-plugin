@@ -1,12 +1,14 @@
 {
   "schema": "dev.woia.provider-manifest/v1",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "authoring_profile": "thin",
   "origin": "native",
   "scope": "organization",
   "departments": [
     "marketing",
-    "sales"
+    "sales",
+    "leasing",
+    "data"
   ],
   "capability": "customer-data",
   "skill": "customer-data",
