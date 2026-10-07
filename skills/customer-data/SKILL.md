@@ -4,7 +4,7 @@ description: Search, read, or update the organization's shared customer source o
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.0"
+  version: "0.5.1"
 ---
 
 # WOIA Customer Data
@@ -38,3 +38,7 @@ The database path must be outside .woia/ Project state. Update uses an exclusive
 Do not bulk-export records merely for convenience. Do not include credentials/secrets in Task state or receipts.
 
 Marketing and Sales may have different authority/fields over the same source record. Never infer one department's permissions from another's access.
+
+## B5 qualified consumer eligibility
+
+B5 consumer eligibility includes Marketing, Sales, Leasing and Data against the configured CRM/customer binding. Customer Data remains a bounded CRM adapter, never the cross-role identity master; resolve canonical Person/Organization identity through WOIA Identity. Consumer eligibility does not grant update, contact, finance or competent acceptance authority.

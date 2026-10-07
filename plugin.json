@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-customer-data",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Shared WOIA organization capability for authorized customer search/read/update against one source of truth, with resource-reference discipline and a deterministic local-store reference implementation.",
   "author": {
     "name": "Turpial AI Academy",
