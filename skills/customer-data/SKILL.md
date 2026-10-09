@@ -39,6 +39,6 @@ Do not bulk-export records merely for convenience. Do not include credentials/se
 
 Marketing and Sales may have different authority/fields over the same source record. Never infer one department's permissions from another's access.
 
-## B5 qualified consumer eligibility
+## Consumer eligibility
 
-B5 consumer eligibility includes Marketing, Sales, Leasing and Data against the configured CRM/customer binding. Customer Data remains a bounded CRM adapter, never the cross-role identity master; resolve canonical Person/Organization identity through WOIA Identity. Consumer eligibility does not grant update, contact, finance or competent acceptance authority.
+Consumer eligibility includes Marketing, Sales, Leasing and Data against the configured CRM/customer binding. Customer Data remains a bounded CRM adapter, never the cross-role identity master; resolve canonical Person/Organization identity through WOIA Identity. Consumer eligibility does not grant update, contact, finance or competent acceptance authority.
