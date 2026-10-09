@@ -6,6 +6,6 @@
 - Project state should store customer/resource refs, not canonical record copies.
 - Search/read do not imply update/export/contact/delete authority.
 - customer.update requires effective authority and bounded patch intent.
-- Delete is unsupported in v0.5.6.
+- Delete is unsupported in v0.5.7.
 - The local JSON backend is a reference implementation, not permission to move production customer data into a Project.
 - Consumers install/update only; canonical source/release changes are maintainer-controlled.

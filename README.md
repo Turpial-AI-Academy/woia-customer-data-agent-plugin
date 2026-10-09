@@ -11,7 +11,7 @@ Operations:
 - customer.read — read
 - customer.update — effectful write with explicit authority
 
-Delete is intentionally not part of v0.5.6.
+Delete is intentionally not part of v0.5.7.
 
 The preferred implementation is the organization's configured integration/app/CRM binding.
 The plugin also contains a deterministic local JSON-store implementation for controlled E2E/small local deployments. Its database path must be an organization-owned data-plane path outside .woia/ and outside department Project state.

@@ -4,7 +4,7 @@ description: Search, read, or update the organization's shared customer source o
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.6"
+  version: "0.5.7"
 ---
 
 # WOIA Customer Data
